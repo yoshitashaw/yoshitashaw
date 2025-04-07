@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoshita Shaw</h1>
 <h3 align="center">A self motivated and passionate developer from India.</h3>
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **Azure** and **German**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-flame-phi-68.vercel.app/](https://personal-portfolio-flame-phi-68.vercel.app/)
 
