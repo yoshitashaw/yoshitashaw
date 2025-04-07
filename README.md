@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Azure** and **German**
 
-- 👨‍💻 All of my projects are available at ([https://personal-portfolio-flame-phi-68.vercel.app/](https://personal-portfolio-l5l9.vercel.app/))
+- 👨‍💻 All of my projects are available at [(https://personal-portfolio-l5l9.vercel.app/)]
 
 - 📫 How to reach me **yoshitashaw@gmail.com**
 
